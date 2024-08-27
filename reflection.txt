@@ -1,0 +1,4 @@
+I really enjoy SQL and working with data. I love seeing how it all connects and allows for things to be remembered by a computer and used
+in a real world environment. I found the subqueries challenging as i was previously only accustom to on straight forward query.
+Its interesting to see how in depth it can go. I feel like this is much easier to pick up than java in particular, because of the simple syntax and
+its more plain english than things like "public static void" for example...
